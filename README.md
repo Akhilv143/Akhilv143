@@ -12,7 +12,7 @@ My hands-on experience includes:
   * **Long-read (Oxford Nanopore):** Utilizing specialized tools like **Clair3**.
 * Applying **immuno-informatics** approaches for *in silico* vaccine design and epitope prediction.
 
-🌱 **What I am learning:** I am currently expanding my skills by learning **Nextflow** to build better data pipelines, and exploring **Machine Learning** to apply it to biological data analysis.
+🌱 **What I am learning:** I am currently expanding my skills by learning **Nextflow automation for NGS pipelines** to build reproducible workflows, and exploring **Machine Learning** to apply it to biological data analysis.
 
 👯 I am always open to collaborating on cancer genomics and multi-omics projects. Let's connect to discuss R scripting, bioinformatics workflows, and working in Linux (WSL)!
 
@@ -31,4 +31,8 @@ My hands-on experience includes:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Akhilv143&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Akhilv143&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="left">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=Akhilv143&color=58A6FF&style=flat" alt="Profile Views" />
+  </a>
+</div>
