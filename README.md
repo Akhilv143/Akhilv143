@@ -3,11 +3,14 @@
 I am currently completing my M.Sc. in Bioinformatics with a strong focus on **transcriptomics** and **clinical genomics**. I am actively looking for **jobs and internships** at companies and research institutes in these areas.
 
 My hands-on experience includes:
-* Analyzing **bulk RNA-seq** and microarray data for Differential Gene Expression (DGE) using `limma`.
-* Working with microRNA NGS and **single-cell RNA-seq** data.
+* Conducting **bulk RNA-seq** analysis for Differential Gene Expression (DGE) using `DESeq2` to identify key transcriptomic signatures.
+* Profiling **microRNA NGS** data to perform DGE and downstream regulatory network analysis.
+* Processing **microarray** datasets for robust DGE profiling utilizing the `limma` package.
+* Exploring cellular heterogeneity through **single-cell RNA-seq** data analysis.
 * Performing **Whole Exome Sequencing (WES) variant calling** for clinical genomics across multiple platforms:
   * **Short-read (Illumina):** Utilizing **GATK** best practices and **Google DeepVariant**.
   * **Long-read (Oxford Nanopore):** Utilizing specialized tools like **Clair3**.
+* Applying **immuno-informatics** approaches for *in silico* vaccine design and epitope prediction.
 
 🌱 **What I am learning:** I am currently expanding my skills by learning **Nextflow** to build better data pipelines, and exploring **Machine Learning** to apply it to biological data analysis.
 
@@ -28,3 +31,4 @@ My hands-on experience includes:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Akhilv143&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Akhilv143&icon=0&color=0)](https://visitcount.itsvg.in)
