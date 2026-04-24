@@ -5,7 +5,9 @@ I am currently completing my M.Sc. in Bioinformatics with a strong focus on **tr
 My hands-on experience includes:
 * Analyzing **bulk RNA-seq** and microarray data for Differential Gene Expression (DGE) using `limma`.
 * Working with microRNA NGS and **single-cell RNA-seq** data.
-* Performing **Whole Exome Sequencing (WES) variant calling** for clinical genomics.
+* Performing **Whole Exome Sequencing (WES) variant calling** for clinical genomics across multiple platforms:
+  * **Short-read (Illumina):** Utilizing **GATK** best practices and **Google DeepVariant**.
+  * **Long-read (Oxford Nanopore):** Utilizing specialized tools like **Clair3**.
 
 🌱 **What I am learning:** I am currently expanding my skills by learning **Nextflow** to build better data pipelines, and exploring **Machine Learning** to apply it to biological data analysis.
 
@@ -25,4 +27,4 @@ My hands-on experience includes:
 ![](https://streak-stats.demolab.com/?user=Akhilv143&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Akhilv143&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+---
