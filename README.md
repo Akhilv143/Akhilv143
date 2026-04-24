@@ -30,9 +30,4 @@ My hands-on experience includes:
 ![](https://streak-stats.demolab.com/?user=Akhilv143&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Akhilv143&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-<div align="left">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Akhilv143&color=58A6FF&style=flat" alt="Profile Views" />
-  </a>
-</div>
+
