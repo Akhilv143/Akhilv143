@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhil V</h1>
 <h3 align="center">M.Sc. Bioinformatics | Transcriptomics & Clinical Genomics | Cancer Genomics Researcher</h3>
 
----
+
 
 ## About Me
 
@@ -18,7 +18,7 @@ My hands-on experience includes:
   * **Long-read (Oxford Nanopore):** Utilizing specialized tools like **Clair3**.
 * Building reproducible and scalable NGS workflows using **Nextflow** automation for end-to-end pipeline development.
 
----
+
 
 ## 🌱 What I Am Learning
 
@@ -31,25 +31,16 @@ I am currently expanding my skills by diving into:
 * Resolving **spatial context of gene expression** within tissue architecture using **Spatial Transcriptomics** (10x Visium, Slide-seq).
 * Integrating single-cell resolution with spatial coordinates through **Single-cell Spatial Transcriptomics** to map cell types, cell–cell communication, and tumor microenvironments *in situ*.
 
----
+
 
 ## 👯 Collaborate With Me
 
 I am always open to collaborating on **cancer genomics** and **multi-omics** projects. Let's connect to discuss R scripting, bioinformatics workflows, and working in Linux (WSL)!
 
----
+
 
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-v-689979326/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilgavadi@gmail.com)
 
----
-
-## GitHub Stats
-
-![Akhil V's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Akhilv143&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Akhilv143&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Akhilv143&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
