@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhil V</h1>
-<h3 align="center">M.Sc. Bioinformatics | Transcriptomics & Clinical Genomics | Cancer Genomics Researcher</h3>
+<h3 align="center">M.Sc. Bioinformatics | Transcriptomics & Clinical Genomics | Cancer Genomics </h3>
 
 
 
