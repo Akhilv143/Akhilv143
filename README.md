@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akhil V</h1>
+<h1 align="center">Hi , I'm Akhil V</h1>
 <h3 align="center">M.Sc. Bioinformatics | Transcriptomics & Clinical Genomics | Cancer Genomics </h3>
 
 
@@ -20,7 +20,7 @@ My hands-on experience includes:
 
 
 
-## 🌱 What I Am Learning
+##  What I Am Learning
 
 I am currently expanding my skills by diving into:
 
@@ -33,7 +33,7 @@ I am currently expanding my skills by diving into:
 
 
 
-## 👯 Collaborate With Me
+## Collaborate With Me
 
 I am always open to collaborating on **cancer genomics** and **multi-omics** projects. Let's connect to discuss R scripting, bioinformatics workflows, and working in Linux (WSL)!
 
@@ -42,5 +42,5 @@ I am always open to collaborating on **cancer genomics** and **multi-omics** pro
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-v-689979326/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilgavadi@gmail.com)
+
 
