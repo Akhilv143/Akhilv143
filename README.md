@@ -2,12 +2,6 @@
 
 ### M.Sc. Bioinformatics
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/akhil-v-689979326)
-
 ---
 
 ## About Me
@@ -28,3 +22,9 @@ My hands-on experience includes:
 ---
 
 *Always open to connecting on LinkedIn — let's talk bioinformatics.*
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/akhil-v-689979326" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
