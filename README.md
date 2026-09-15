@@ -24,7 +24,7 @@ My hands-on experience includes:
 ## Experience
 
 **Junior Bioinformatician — Nucleome Informatics, Hyderabad**
-Currently working on transcriptomics and meta genomics 
+Currently working on Transcriptomics and Metagenomics
 
 **Research Intern — Centre for Integrative Omics Data Science (CIODS), Yenepoya University**
 Completed a six-month research internship focused on transcriptomics and clinical genomics data analysis.
