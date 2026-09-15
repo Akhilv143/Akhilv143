@@ -6,8 +6,6 @@
 
 ## About Me
 
-<img src="https://github.com/user-attachments/assets/5c503d51-84b7-4fba-b96c-74476e1f369c" width="120" align="right"/>
-
 I'm currently working as a Junior Bioinformatician at Nucleome Informatics, Hyderabad, with a strong focus on transcriptomics and clinical genomics.
 
 My hands-on experience includes:
@@ -23,15 +21,17 @@ My hands-on experience includes:
 
 ## Experience
 
+<img src="https://github.com/user-attachments/assets/5c503d51-84b7-4fba-b96c-74476e1f369c" width="90"/>
+
 **Junior Bioinformatician — Nucleome Informatics, Hyderabad**
 Currently working on transcriptomics and clinical genomics projects.
 
+<br/>
+
+<img src="https://github.com/user-attachments/assets/61fa9c9a-120b-41a4-93c8-3e9b3f670d3f" width="200"/>
+
 **Research Intern — Centre for Integrative Omics Data Science (CIODS), Yenepoya University**
 Completed a six-month research internship focused on transcriptomics and clinical genomics data analysis.
-
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/61fa9c9a-120b-41a4-93c8-3e9b3f670d3f" width="280"/>
-</p>
 
 ---
 
