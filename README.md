@@ -24,7 +24,7 @@ My hands-on experience includes:
 ## Experience
 
 **Junior Bioinformatician — Nucleome Informatics, Hyderabad**
-Currently working on transcriptomics and clinical genomics projects, including microarray-based DGE analysis using the limma package.
+Currently working on transcriptomics and meta genomics 
 
 **Research Intern — Centre for Integrative Omics Data Science (CIODS), Yenepoya University**
 Completed a six-month research internship focused on transcriptomics and clinical genomics data analysis.
