@@ -21,6 +21,20 @@ My hands-on experience includes:
 
 ---
 
+## Experience
+
+**Junior Bioinformatician — Nucleome Informatics, Hyderabad**
+Currently working on transcriptomics and clinical genomics projects.
+
+**Research Intern — Centre for Integrative Omics Data Science (CIODS), Yenepoya University**
+Completed a six-month research internship focused on transcriptomics and clinical genomics data analysis.
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/61fa9c9a-120b-41a4-93c8-3e9b3f670d3f" width="280"/>
+</p>
+
+---
+
 *Always open to connecting on LinkedIn — let's talk bioinformatics.*
 
 <p align="left">
